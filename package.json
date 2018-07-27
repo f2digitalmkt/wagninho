@@ -1,0 +1,22 @@
+{
+  "name": "wagninho-2018-novo-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f2digitalmkt/wagninho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f2digitalmkt/wagninho/issues"
+  },
+  "homepage": "https://github.com/f2digitalmkt/wagninho#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
